@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Datenschutzrichtlinie Augmented Science App
 
-You can use the [editor on GitHub](https://github.com/fneu/augmentedscienceprivacy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Verantwortlicher**  
+Augmented Science UG (haftungsbeschränkt)  
+Harburger Schloßstraße 6-12  
+21079 Hamburg, Deutschland  
+[Contact@augmentedscience.io](mailto:contact@augmentedscience.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Fragen zum Datenschutz und Wahrnehmung Ihrer Rechte**  
+Für Fragen zum Datenschutz oder für die Ausübung der Ihnen zustehenden datenschutzrechtlichen Ansprüche wenden Sie sich bitte an die oben genannten Kontaktdaten.
 
-### Markdown
+**Nutzung der App**  
+Wir verarbeiten im Grundsatz keine personenbezogenen Daten der Nutzer unserer App. Hiervon ausgenommen sind:  
+a) Die Nutzung der öffentlichen IP-Adresse des von Ihnen verwendeten Endgerätes, um die von Ihnen abgerufenen Daten an die App zu übermitteln  
+b) die Übertragung von Daten auf einen von uns betriebenen Server im Zusammenhang mit einem etwaigen Absturz der App. Hierbei kann es zu einer Übertragung der folgenden personenbezogenen Daten kommen:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Ihre Rechte**  
+Ihnen stehen im Zusammenhang mit Ihren personenbezogenen Daten aus der DSGVO insbesondere die nachfolgend genannten Rechte zu. Wegen der Details verweisen wir auf die gesetzlichen Regelungen.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Recht auf Auskunft**  
+Nach Art. 15 DSGVO haben Sie das Recht, von uns eine Bestätigung darüber zu verlangen, ob durch uns Sie betreffende personenbezogene Daten verarbeitet werden. Wenn dies der Fall ist, so haben Sie ein Recht auf Auskunft über diese personenbezogenen Daten und auf weitergehende Informationen, die in Art. 15 DSGVO genannt sind.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Recht auf Berichtigung**  
+Nach Art. 16 DSGVO haben Sie das Recht, von uns unverzüglich die Berichtigung unrichtiger personenbezogener Daten zu verlangen, die Sie betreffen. Unter Berücksichtigung der Zwecke der Verarbeitung haben Sie ferner das Recht, die Vervollständigung unvollständiger personenbezogener Daten – auch mittels einer ergänzenden Erklärung – zu verlangen.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Recht auf Löschung**  
+Sie haben das Recht von uns zu verlangen, dass Sie betreffende personenbezogene Daten unverzüglich gelöscht werden. Wir sind verpflichtet, personenbezogene Daten unverzüglich zu löschen, sofern die entsprechenden Voraussetzungen des Art. 17 DSGVO vorliegen. Wegen der Einzelheiten verweisen wir auf Art. 17 DSGVO.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**Recht auf Einschränkung der Verarbeitung**  
+Nach Maßgabe des Art. 18 DSGVO haben Sie unter bestimmten Voraussetzungen das Recht, von uns die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fneu/augmentedscienceprivacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Recht auf Datenübertragbarkeit**  
+Unter den Voraussetzungen des Art. 20 DSGVO haben Sie das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Nach Art. 20 DSGVO haben Sie weiter das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu übermitteln, sofern die Verarbeitung auf einer Einwilligung gemäß Artikel 6 Abs. 1 a) DSGVO oder Artikel 9 Abs. 2 a) DSGVO oder auf einem Vertrag gemäß Artikel 6 Abs. 1 b) DSGVO beruht und die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+**Bestehen eines Beschwerderechts bei der Aufsichtsbehörde**  
+Sie haben nach Art. 77 DSGVO unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht, sich bei der Aufsichtsbehörde zu beschweren. Dieses Recht besteht insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+
+
+**Widerspruchsrecht**  
+**Nach Art. 21 DSGVO haben Sie das Recht gegen die Verarbeitung Sie betreffender personenbezogener Daten, die auf Grundlage von Artikel 6 Absatz 1 Buchstaben e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.**
+
+
+**Sofern wir Ihre personenbezogenen Daten verarbeiten, um Direktwerbung zu betreiben, haben Sie jederzeit das Recht, gegen die Verarbeitung sie betreffender personenbezogener Daten zum Zwecke derartiger Werbung Widerspruch einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.**
