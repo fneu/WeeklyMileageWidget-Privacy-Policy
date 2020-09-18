@@ -1,3 +1,6 @@
+---
+title: Augmented Science: Privacy Policy
+---
 ## Datenschutzrichtlinie Augmented Science App
 
 **Verantwortlicher**  
