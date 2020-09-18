@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Augmented Science: Privacy Policy
 ---
 ## Datenschutzrichtlinie Augmented Science App
