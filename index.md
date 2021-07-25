@@ -1,4 +1,4 @@
-## Datenschutzrichtlinie Augmented Science App
+## Datenschutzrichtlinie WeeklyMileageWidget
 
 **Verantwortlicher**  
 Fabian Neuschmidt  
