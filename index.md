@@ -1,10 +1,10 @@
 ## Datenschutzrichtlinie Augmented Science App
 
 **Verantwortlicher**  
-Augmented Science UG (haftungsbeschränkt)  
-Harburger Schloßstraße 6-12  
-21079 Hamburg, Deutschland  
-[Contact@augmentedscience.io](mailto:contact@augmentedscience.io)
+Fabian Neuschmidt
+Oertzweg 7
+22307 Hamburg, Deutschland  
+[runsprintscodes@gmail.com](mailto:runsprintscodes@gmail.com)
 
 **Fragen zum Datenschutz und Wahrnehmung Ihrer Rechte**  
 Für Fragen zum Datenschutz oder für die Ausübung der Ihnen zustehenden datenschutzrechtlichen Ansprüche wenden Sie sich bitte an die oben genannten Kontaktdaten.
