@@ -1,8 +1,8 @@
 ## Datenschutzrichtlinie Augmented Science App
 
 **Verantwortlicher**  
-Fabian Neuschmidt
-Oertzweg 7
+Fabian Neuschmidt  
+Oertzweg 7  
 22307 Hamburg, Deutschland  
 [runsprintscodes@gmail.com](mailto:runsprintscodes@gmail.com)
 
